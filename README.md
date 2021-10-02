@@ -1,1 +1,1 @@
-Euler tasks
+GG
